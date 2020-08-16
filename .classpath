@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahfuj Tuhin/eclipse-workspace/XYZ001/jars/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
